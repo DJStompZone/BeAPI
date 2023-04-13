@@ -29,7 +29,7 @@
   "homepage": "https://github.com/MCBE-Utilities/BeAPI/packages/create-beapi#readme",
   "dependencies": {
     "kolorist": "^1.5.0",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.8",
     "prompts": "^2.4.2"
   },
   "publishConfig": {
