@@ -59,7 +59,7 @@
     "eslint": "^7.32.0",
     "semver": "^7.3.5",
     "ts-node": "^10.2.1",
-    "typescript": "^4.4.2",
+    "typescript": "^4.9.5",
     "update-notifier": "^5.1.0",
     "uuid-1345": "^1.0.2",
     "yargs": "^17.1.1",
